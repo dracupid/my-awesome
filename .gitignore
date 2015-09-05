@@ -22,5 +22,5 @@ tmp
 temp
 *.temp
 dist
-
+*.html
 
