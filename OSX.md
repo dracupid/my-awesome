@@ -9,7 +9,6 @@
 
 ## Productivity
 - [Alfread](https://www.alfredapp.com/): Boosts your efficiency with hotkeys and keywords. <i class="o"></i> <i class="f"></i> / <i class="c">£17</i>
-- [iStat Menus](https://bjango.com/mac/istatmenus/): An advanced Mac system monitor for your menubar. <i class="c">$18</i>
 
 ### Develop
 - [Dash](https://kapeli.com/dash): API Documentation Browser and Code Snippet Manager. <i class="o"></i> <i class="f"></i> / <i class="c">$19.99</i>
@@ -20,3 +19,8 @@
     + [WebStorm](https://www.jetbrains.com/webstorm): The smartest JavaScript IDE. <i class="f"></i> / <i class="c">$49</i>
     + [...](https://www.jetbrains.com/products.html)
 - [Sublime Text](http://www.sublimetext.com/3): A sophisticated text editor for code, markup and prose. <i class="f"></i>
+
+
+## miscellaneous
+- [iStat Menus](https://bjango.com/mac/istatmenus/): An advanced Mac system monitor for your menubar. <i class="o"></i> <i class="c">$18</i>
+- [f.lux](https://justgetflux.com/): Makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. <i class="f"></i>
