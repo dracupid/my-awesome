@@ -23,12 +23,12 @@ As far as I know, all preprocessors by now only extends CSS syntax, which means 
 Less, stylus and Sass are the most popular three.
 ### [Less](http://lesscss.org/)
 - library
-    + [est](https://github.com/ecomfe/est): Less mixins.<iframe src="https://ghbtns.com/github-btn.html?user=ecomfe&repo=est&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-    + <del>[LESS Hat](https://github.com/madebysource/lesshat): Less mixins.[outdated]<del><iframe src="https://ghbtns.com/github-btn.html?user=madebysource&repo=lesshat&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+    + [est](https://github.com/ecomfe/est): Less mixins.
+    + <del>[LESS Hat](https://github.com/madebysource/lesshat): Less mixins.[outdated]<del>
 
 ### [Stylus](http://learnboost.github.io/stylus/)
 - library
-    - [nib](https://github.com/tj/nib): Stylus mixins, utilities, components, and gradient image generation <iframe src="https://ghbtns.com/github-btn.html?user=tj&repo=nib&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+    - [nib](https://github.com/tj/nib): Stylus mixins, utilities, components, and gradient image generation
 
 ### [Sass / SCSS](http://sass-lang.com/)
 - library
@@ -42,16 +42,16 @@ Sass was originally written in Ruby.
 ## postprocessor
 [PostCSS][]: Transforming CSS with JS plugins
 - **[Autoprefixer][]**: Add vendor prefixes using values from Can I Use. [Try online](http://simevidas.jsbin.com/gufoko/quiet)
-    + ** Don't use anything but Autoprefixer to add vendor prefixes.**
+    + **Don't use anything but Autoprefixer to add vendor prefixes.**
 - [CSS Grace][]: Handles IE hacks (opacity, rgba, inline-block, etc) in addition to some non-standard handy shortcuts.
 - [rucksack][]: A little bag of CSS superpowers
 - [cssnext][]: Use tomorrow's CSS syntax, today. (Includes autoprefixer)
 - [...](https://github.com/postcss/postcss#plugins)
 
 #### minify
-[benchmark](https://github.com/GoalSmashers/css-minification-benchmark)
-
-<del>[rework](https://github.com/reworkcss/rework): CSS manipulations built on [css](https://github.com/reworkcss/css). [out of fashion]</del>
+- [benchmark](https://github.com/GoalSmashers/css-minification-benchmark): A comparison of CSS minifiers
+- [clean-css][]: A fast, efficient, and well tested CSS minifier
+- [cssnano][]: A modular minifier, built on top of the PostCSS ecosystem. But it's slow.
 
 [Autoprefixer]: https://github.com/postcss/autoprefixer
 [CSS Grace]: https://github.com/cssdream/cssgrace
@@ -59,3 +59,4 @@ Sass was originally written in Ruby.
 [clean-css]: https://github.com/jakubpawlowicz/clean-css
 [PostCSS]: https://github.com/postcss/postcss
 [rucksack]: https://github.com/simplaio/rucksack
+[cssnano]: https://github.com/ben-eb/cssnano
