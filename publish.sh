@@ -9,7 +9,7 @@ git add -A
 if [ $# -eq 1 ]
 then msg="$1"
 else
-    msg=":new: Update: $(date "+%Y-%m-%d %H:%M:%S")"
+    msg="Update: $(date "+%Y-%m-%d %H:%M:%S")"
 fi
 
 echo "Commit Message: $msg"
