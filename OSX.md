@@ -2,6 +2,8 @@
 - [Homebrew](http://brew.sh/): The missing package manager for OS X. [ MAC-ONLY / Free ]
     + [Cakebrew](https://www.cakebrew.com/): The Homebrew GUI App for OS X.
 - [oh-my-zsh](http://ohmyz.sh/): An open source, community-driven framework for managing your ZSH configuration. [ Free ]
+- [autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line. [ Free ]
+- [Mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 
 ## CLI commands(MAC-only)
 - say: Convert text to audible speech.
@@ -11,10 +13,13 @@
 
 ## Productivity
 - [Alfread](https://www.alfredapp.com/): Boosts your efficiency with hotkeys and keywords. [ MAC-ONLY / Free / £17 ]
-- [ClipMenu](http://www.clipmenu.com/): ClipBoard History Manager.
-### Develop
+- [ClipMenu](http://www.clipmenu.com/): ClipBoard History Manager. [ MAC-ONLY / Free ]
+- [PopClip](http://pilotmoon.com/popclip/): Instantly copy & paste, and access actions like search, spelling, dictionary and over 100 more. [ MAC-ONLY / $6.99 ]
+
+### Developers
 - [Dash](https://kapeli.com/dash): API Documentation Browser and Code Snippet Manager. [ MAC-ONLY / Free / $19.99 ]
 - [SourceTree](https://www.sourcetreeapp.com/): A Git & Mercurial GUI client. [ Free ]
+- [Gitup](http://gitup.co/): The Git interface you've been missing all your life has finally arrived. [ MAC-ONLY / Free ]
 - [JetBrains's IDEs](https://www.jetbrains.com/)
     + [Intellij IDEA](https://www.jetbrains.com/idea): The Most Intelligent Java IDE. [ Free / $199 ]
     + [PyCharm](https://www.jetbrains.com/pycharm): The Most Intelligent Python IDE. [ Free / $99 ]
@@ -27,6 +32,8 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/): An advanced Mac system monitor for your menubar. [ MAC-ONLY / $18 ]
 - [f.lux](https://justgetflux.com/): Makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. [ Free ]
 
+## multimedia
+- [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player.
 
 
-**See also: [iCHAIT's](https://github.com/iCHAIT/awesome-osx)**
+**See More: [iCHAIT's](https://github.com/iCHAIT/awesome-osx)**
