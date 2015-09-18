@@ -33,7 +33,7 @@
 - [f.lux](https://justgetflux.com/): Makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. [ Free ]
 
 ## multimedia
-- [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player.
+- [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]
 
 
 **See More: [iCHAIT's](https://github.com/iCHAIT/awesome-osx)**
