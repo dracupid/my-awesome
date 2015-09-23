@@ -2,9 +2,12 @@
 - [CSS Guildelines](http://cssguidelin.es/): by Harry Roberts
 - [Block Element Modifier](http://getbem.com/): A methodology to achieve reusable components and code sharing in the front-end.
 
-#### libs
-- [normalize.css](https://github.com/necolas/normalize.css/): A customisable CSS file that makes browsers render all elements more consistently and in line with modern standards
+#### uniform
+- [normalize.css](https://github.com/necolas/normalize.css/): Render elements more consistently with each other.
     + [Prefer normalize to traditional Reset](http://nicolasgallagher.com/about-normalize-css/)
+- [sanitize.css](https://github.com/10up/sanitize.css): Render elements more consistently with developer expectations and preferences.
+
+#### libs
 - [animate.css](https://github.com/daneden/animate.css): I'd like to use it only as a css `animate` reference.
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome): Use icons as a single font.
 
