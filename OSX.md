@@ -36,4 +36,6 @@
 - [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]
 
 
-**See More: [iCHAIT's](https://github.com/iCHAIT/awesome-osx)**
+## See More
+- [iCHAIT's](https://github.com/iCHAIT/awesome-osx)
+- [herrbischoff's(CLI)](https://github.com/herrbischoff/awesome-osx-command-line)
