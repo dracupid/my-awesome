@@ -17,7 +17,7 @@
 - [PopClip](http://pilotmoon.com/popclip/): Instantly copy & paste, and access actions like search, spelling, dictionary and over 100 more. [ MAC-ONLY / $6.99 ]
 
 ### Developers
-- [Dash](https://kapeli.com/dash): API Documentation Browser and Code Snippet Manager. [ MAC-ONLY / Free / $19.99 ]
+- [Dash](https://kapeli.com/dash): API Documentation Browser and Code Snippet Manager. [ MAC-ONLY / Free / $24.99 ]
 - [SourceTree](https://www.sourcetreeapp.com/): A Git & Mercurial GUI client. [ Free ]
 - [Gitup](http://gitup.co/): The Git interface you've been missing all your life has finally arrived. [ MAC-ONLY / Free ]
 - [JetBrains's IDEs](https://www.jetbrains.com/)
