@@ -2,6 +2,8 @@
 - [Homebrew](http://brew.sh/): The missing package manager for OS X. [ MAC-ONLY / Free ]
     + [Cakebrew](https://www.cakebrew.com/): The Homebrew GUI App for OS X.
 - [oh-my-zsh](http://ohmyz.sh/): An open source, community-driven framework for managing your ZSH configuration. [ Free ]
+- zsh-plugins
+    + [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): syntax highlighting for Zsh.
 - [autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line. [ Free ]
 - [Mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 
