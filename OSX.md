@@ -21,12 +21,14 @@
 - [SourceTree](https://www.sourcetreeapp.com/): A Git & Mercurial GUI client. [ Free ]
 - [Gitup](http://gitup.co/): The Git interface you've been missing all your life has finally arrived. [ MAC-ONLY / Free ]
 - [JetBrains's IDEs](https://www.jetbrains.com/)
-    + [Intellij IDEA](https://www.jetbrains.com/idea): The Most Intelligent Java IDE. [ Free / $199 ]
-    + [PyCharm](https://www.jetbrains.com/pycharm): The Most Intelligent Python IDE. [ Free / $99 ]
-    + [WebStorm](https://www.jetbrains.com/webstorm): The smartest JavaScript IDE. [ Free / $49 ]
+    + [Intellij IDEA](https://www.jetbrains.com/idea): The Most Intelligent Java IDE. [ Free / $149 ]
+    + [PyCharm](https://www.jetbrains.com/pycharm): The Most Intelligent Python IDE. [ Free / $89 ]
+    + [WebStorm](https://www.jetbrains.com/webstorm): The smartest JavaScript IDE. [ Free / $59 ]
     + [...](https://www.jetbrains.com/products.html)
 - [Sublime Text](http://www.sublimetext.com/3): A sophisticated text editor for code, markup and prose. [ Free ]
-
+- GUI Database Client
+    + [MongoHub](https://github.com/jeromelebel/MongoHub-Mac): Mac Native Mongodb Client. [ MAC-ONLY / Free ]
+    + [MySQL Workbench](https://www.mysql.com/products/workbench): a unified visual tool for database architects, developers, and DBAs. [ Free ]
 
 ## miscellaneous
 - [iStat Menus](https://bjango.com/mac/istatmenus/): An advanced Mac system monitor for your menubar. [ MAC-ONLY / $18 ]
@@ -34,6 +36,7 @@
 
 ## multimedia
 - [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]
+- [Movist](http://cocoable.tistory.com/): Movie Player for Mac OS X based on QuickTime & FFmpeg. [ MAC-ONLY / ¥30 ]
 
 
 ## See More
