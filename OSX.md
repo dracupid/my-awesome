@@ -40,6 +40,8 @@
 - [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]
 - [Movist](http://cocoable.tistory.com/): Movie Player for Mac OS X based on QuickTime & FFmpeg. [ MAC-ONLY / ¥30 ]
 
+## Font for code
+- [Hack](http://sourcefoundry.org/hack/): A typeface designed for source code.
 
 ## See More
 - [iCHAIT's](https://github.com/iCHAIT/awesome-osx)

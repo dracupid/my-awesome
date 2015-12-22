@@ -17,7 +17,11 @@ kebab-case
 ## JS
 - [C/c]amelCase
 
+#### React/jsx
+[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react) [CN](https://github.com/dwqs/react-style-guide)
+
 ## python
 snake_case
 
 - [PEP 8](http://legacy.python.org/dev/peps/pep-0008/)
+
