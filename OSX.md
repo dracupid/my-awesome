@@ -21,7 +21,7 @@
 ## Quicklook Plugin
 - [QLVideo](https://github.com/Marginal/QLVideo): Display thumbnails, static QuickLook previews, cover art and metadata for most types of video files
 
-### Developers
+## Developers
 - [Dash](https://kapeli.com/dash): API Documentation Browser and Code Snippet Manager. [ MAC-ONLY / Free / $24.99 ]
 - [SourceTree](https://www.sourcetreeapp.com/): A Git & Mercurial GUI client. [ Free ]
 - [Gitup](http://gitup.co/): The Git interface you've been missing all your life has finally arrived. [ MAC-ONLY / Free ]
