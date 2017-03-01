@@ -42,10 +42,9 @@
 ## multimedia
 - [IINA](https://lhc70000.github.io/iina/): The modern video player for macOS. [ MAC-ONLY / Free ]
 - [Movist](http://cocoable.tistory.com/): Movie Player for Mac OS X based on QuickTime & FFmpeg. [ MAC-ONLY / ¥30 ]
-<!-- - [VLC media player](http://www.videolan.org/): A free and open source cross-platform multimedia player [ Free ]
-- [MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]
- -->
- 
+- <del>[VLC media player](http://www.videolan.org/): A free and open source cross-platform multimedia player [ Free ]</del>
+- <del>[MPlayerX](http://mplayerx.org/): A simple, powerful, beautiful media player. [ MAC-ONLY / Free ]</del>
+
 ## Font for code
 - [Hack](http://sourcefoundry.org/hack/): A typeface designed for source code.
 
